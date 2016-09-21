@@ -2,6 +2,10 @@
 
 This is a console application twitter competition bot, it will search for keywords, filter tweets and then retweet.
 
+<p align="center">
+    <img src="http://s16.postimg.org/rzkc3rcf9/bot_Screen.png" />
+</p>
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine.
@@ -36,3 +40,7 @@ Run "TwitterBot.exe", simple as that!
 ```
 "Config.json" must be in the same directory as "TwitterBot.exe"
 ```
+
+#Legal
+
+This Project is in no way affiliated with, authorized, maintained, sponsored or endorsed by Twitter, Inc. or any of its affiliates or subsidiaries. This is an independent and unofficial application for educational use ONLY. Using the Project might be against the TOS
