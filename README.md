@@ -1,6 +1,6 @@
 # TwitterBot
 
-This is a twitter competition bot, it will search for keywords, filter tweets and then retweet.
+This is a console application twitter competition bot, it will search for keywords, filter tweets and then retweet.
 
 ## Getting Started
 
