@@ -5,10 +5,10 @@
     "giveaway"
   ],
   "IgnoreKeywords": [],
-  "ConsumerKey": "",
-  "ConsumerSecret": "",
-  "AccessToken": "",
-  "AccessSecret": "",
+  "ConsumerKey": "Your Consumer Key",
+  "ConsumerSecret": "Your Consumer Secret",
+  "AccessToken": "Your Access Token",
+  "AccessSecret": "Your Access Secret",
   "LastTweetId": 0,
-  "TweetDelay": 30000
+  "TweetDelay": 60000
 }
