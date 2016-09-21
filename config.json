@@ -1,0 +1,14 @@
+{
+  "SearchKeywords": [
+    "rt to win",
+    "retweet and win",
+    "giveaway"
+  ],
+  "IgnoreKeywords": [],
+  "ConsumerKey": "",
+  "ConsumerSecret": "",
+  "AccessToken": "",
+  "AccessSecret": "",
+  "LastTweetId": 0,
+  "TweetDelay": 30000
+}
