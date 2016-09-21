@@ -12,9 +12,9 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Installing
 
-Clone or download this repository
+Go to releases to download this program
 ```
-Button is at the top of the repository page
+Pick the latest build in the release tab
 ```
 
 Change information the config.json file to your own (should look something like below)
